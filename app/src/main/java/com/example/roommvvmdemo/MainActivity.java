@@ -1,0 +1,1 @@
+// This file is obsolete. Please use com.example.roommvvmdemo.ui.MainActivity instead.
