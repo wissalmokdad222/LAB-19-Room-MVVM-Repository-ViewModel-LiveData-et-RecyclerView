@@ -41,3 +41,6 @@ Le projet suit une organisation rigoureuse en packages pour assurer la maintenab
 4. Effectuer un clic long sur une note pour la supprimer.
 5. Utiliser le bouton de suppression globale pour vider la liste.
 6. Tourner l'écran pour vérifier que l'état de la liste est préservé.
+
+## Demonstration: Video
+![Video](https://github.com/user-attachments/assets/b6e326f3-4c3a-45eb-9e11-d27bd590bd94)
